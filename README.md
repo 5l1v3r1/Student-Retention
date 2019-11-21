@@ -10,6 +10,6 @@ The data file has a lot more going for it.
 Our goal is to find out how many students continue to study with us in O Level and Matric (Pakistan's equivalent to O Level)
 Mainly we want to see how many students get enrolled into the program and then how many of them continue for the next three years
 
-#Implementation
+# Implementation
 
 We will use python (mainly pandas and occassionally numpy when required)
